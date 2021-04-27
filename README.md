@@ -1,6 +1,6 @@
 # Easy Bank Landing Page
 ## Demo
-  [EasyBank Landing Page](https://objective-kepler-2235cd.netlify.app/ "EasyBank Landing Page")
+  [Easybank Landing Page](https://easy-bank-landing-page-responsive.netlify.app/ "EasyBank Landing Page")
 ## Requirements
 - The challenge was to build the landing page and get it looking as close to the design as possible, also make it responsive for different screen sizes.
 - Users should be able to:
